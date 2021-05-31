@@ -339,7 +339,7 @@ section.about
 }
 .feature .content img{
     object-fit:cover;
-    max-height: 70%;
+    height: 70%;
 }
 .callBack{
 max-height:424px;
